@@ -1,0 +1,50 @@
+{
+  "id": "hts-comprehend-measures",
+  "title": "HT's Comprehend Measures",
+  "description": "<p>Converts all measurements within D&amp;D 5E documents to match your preferred unit settings.</p>",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "authors": [
+    {
+      "name": "Halftone",
+      "url": "https://github.com/halftonex",
+      "discord": "half.tone",
+      "flags": {}
+    }
+  ],
+  "esmodules": ["module.mjs"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "it",
+      "name": "Italian",
+      "path": "lang/it.json",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0",
+          "verified": "5.2.4"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/halftonex/hts-comprehend-measures",
+  "manifest": "https://github.com/halftonex/hts-comprehend-measures/releases/latest/download/module.json",
+  "download": "",
+  "changelog": "",
+  "flags": {}
+}

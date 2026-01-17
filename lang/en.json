@@ -1,0 +1,33 @@
+{
+  "HTCM": {
+    "ConvertButton": "Convert Measures",
+
+    "DIALOG": {
+      "Content": "There are documents in the game world that could be converted. Do you want to proceed?",
+      "DontAsk": "Don't ask again"
+    },
+
+    "SETTINGS": {
+      "StartupConversion": {
+        "Name": "Conversion on Startup",
+        "Hint": "Check upon world startup if there are documents that need conversion."
+      }
+    },
+
+    "TYPES": {
+      "Actor": "actor",
+      "ActorPL": "actors",
+      "Item": "item",
+      "ItemPL": "items",
+      "Scene": "scene",
+      "ScenePL": "scenes"
+    },
+
+    "STATUS": {
+      "Converted": "HT's Comprehend Measures | The document \"{name}\" has been converted.",
+      "ConversionError": "HT's Comprehend Measures | The document \"{name}\" has not been converted.",
+      "WorldConversion": "HT's Comprehend Measures | Calculating documents to be converted.",
+      "WorldConverted": "HT's Comprehend Measures | Conversion completed for {partial} {type}."
+    }
+  }
+}

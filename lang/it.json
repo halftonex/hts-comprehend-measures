@@ -1,0 +1,33 @@
+{
+  "HTCM": {
+    "ConvertButton": "Converti Misure",
+
+    "DIALOG": {
+      "Content": "Nel mondo di gioco sono presenti dei documenti che potrebbero essere convertiti. Vuoi procedere?",
+      "DontAsk": "Non chiedere più"
+    },
+
+    "SETTINGS": {
+      "StartupConversion": {
+        "Name": "Conversione all'avvio",
+        "Hint": "Verifica all'avvio del mondo se ci sono documenti che necessitano di conversione."
+      }
+    },
+
+    "TYPES": {
+      "Actor": "personaggio",
+      "ActorPL": "personaggi",
+      "Item": "oggetto",
+      "ItemPL": "oggetti",
+      "Scene": "scena",
+      "ScenePL": "scene"
+    },
+
+    "STATUS": {
+      "Converted": "HT's Comprehend Measures | Il documento \"{name}\" è stato convertito.",
+      "ConversionError": "HT's Comprehend Measures | Il documento \"{name}\" non è stato convertito.",
+      "WorldConversion": "HT's Comprehend Measures | Calcolo dei documenti da convertire.",
+      "WorldConverted": "HT's Comprehend Measures | Conversione completata di {partial} {type}."
+    }
+  }
+}
